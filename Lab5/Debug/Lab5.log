@@ -1,3 +1,0 @@
-﻿  Lab5.cpp
-D:\Github\LR5\Lab5\Lab5.cpp(66,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Lab5.vcxproj -> D:\Github\LR5\Lab5\Debug\Lab5.exe

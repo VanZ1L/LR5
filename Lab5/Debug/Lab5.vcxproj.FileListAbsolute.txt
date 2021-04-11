@@ -1,2 +1,0 @@
-D:\Github\LR5\Lab5\Debug\Lab5.exe
-D:\Github\LR5\Lab5\Debug\Lab5.pdb
